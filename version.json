@@ -1,0 +1,10 @@
+{
+  "name": "Mr. Digger",
+  "build": "2026-10-31",
+  "generator": 6,
+  "early_pick_prices": {
+    "copper": 70,
+    "iron": 260
+  },
+  "pck_sha256": "0bbbdb930fa2e35ea0b574b3f96cf2bb9b8173965aaddde5511be7b8276d208d"
+}
