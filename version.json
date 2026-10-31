@@ -1,10 +1,16 @@
 {
   "name": "Mr. Digger",
-  "build": "2026-10-31",
-  "generator": 6,
-  "early_pick_prices": {
-    "copper": 70,
-    "iron": 260
-  },
-  "pck_sha256": "0bbbdb930fa2e35ea0b574b3f96cf2bb9b8173965aaddde5511be7b8276d208d"
+  "build": "9d257769d239",
+  "main_pack": "mr-digger-9d257769d239.pck",
+  "pck_sha256": "9d257769d23989ab952bd0db8f2122e73492db304e787cb10895fdb05e532460",
+  "created_utc": "2026-10-31T15:55:33.727943+00:00",
+  "features": [
+    "manual-respawn",
+    "death-animation",
+    "half-heart-recovery-30s",
+    "player-hurt-sound",
+    "sector-doors",
+    "progressive-cameras",
+    "falling-ropes"
+  ]
 }
