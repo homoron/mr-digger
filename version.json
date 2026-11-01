@@ -1,9 +1,9 @@
 {
   "name": "Mr. Digger",
-  "build": "77c96e5b56ae",
-  "main_pack": "mr-digger-77c96e5b56ae.pck",
-  "pck_sha256": "77c96e5b56aebdcd753e7ab99cc849a882e13f17847d0c82334be5479283a8ad",
-  "created_utc": "2026-11-01T11:50:25.771440+00:00",
+  "build": "96776eea41b5",
+  "main_pack": "mr-digger-96776eea41b5.pck",
+  "pck_sha256": "96776eea41b5c669f794b2ccd07bb339d076eb596480a1fa55141f5ea18a8c97",
+  "created_utc": "2026-11-01T12:01:03.246135+00:00",
   "generator": 7,
   "features": [
     "rope-ascender-shift",
