@@ -1,11 +1,14 @@
 {
   "name": "Mr. Digger",
-  "build": "d070ac100214",
-  "main_pack": "mr-digger-d070ac100214.pck",
-  "pck_sha256": "d070ac10021476d510d1c79d0a0ce3563ec1e356936bf903a25192c305752423",
-  "created_utc": "2026-11-01T10:46:48.751406+00:00",
+  "build": "77c96e5b56ae",
+  "main_pack": "mr-digger-77c96e5b56ae.pck",
+  "pck_sha256": "77c96e5b56aebdcd753e7ab99cc849a882e13f17847d0c82334be5479283a8ad",
+  "created_utc": "2026-11-01T11:50:25.771440+00:00",
   "generator": 7,
   "features": [
+    "rope-ascender-shift",
+    "permanent-ascender-upgrades",
+    "scrollable-shop-catalogue",
     "clearer-gold-art",
     "occluded-light-halos",
     "sealed-cave-light-filtering",
