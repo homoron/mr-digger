@@ -8,7 +8,7 @@ A/D: moverse · Espacio: saltar · Clic/J: herramienta · E: interactuar · 1–
 
 **Pantalla completa:** botón en la esquina inferior derecha o F11.
 
-El pico de cobre cuesta 70 monedas y el de hierro, 260. Las partidas existentes se conservan en el mismo navegador.
+El pico de cobre cuesta 70 monedas y el de hierro, 260. Las antorchas cuestan 10 monedas el paquete de cinco. Las partidas existentes se conservan en el mismo navegador.
 
 Actualización: plata en granito, vetas grandes de platino y mena anómala, oro más visible y correcciones de luz. Tres mazmorras por bioma con flechas rojas ocultas en las paredes del fondo. Al continuar partidas antiguas, las salas adicionales se colocan en zonas todavía sin explorar.
 

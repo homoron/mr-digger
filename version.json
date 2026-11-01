@@ -1,9 +1,9 @@
 {
   "name": "Mr. Digger",
-  "build": "2e0e6233306f",
-  "main_pack": "mr-digger-2e0e6233306f.pck",
-  "pck_sha256": "2e0e6233306ffc4f5cb2b54ab9e25d2ab349bce0673e10cad6ef9e1da9d904df",
-  "created_utc": "2026-10-31T19:20:27.043616+00:00",
+  "build": "d070ac100214",
+  "main_pack": "mr-digger-d070ac100214.pck",
+  "pck_sha256": "d070ac10021476d510d1c79d0a0ce3563ec1e356936bf903a25192c305752423",
+  "created_utc": "2026-11-01T10:46:48.751406+00:00",
   "generator": 7,
   "features": [
     "clearer-gold-art",
