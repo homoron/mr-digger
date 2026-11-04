@@ -1,9 +1,9 @@
 {
   "name": "Mr. Digger",
-  "build": "67b99ec6ed72",
-  "main_pack": "mr-digger-67b99ec6ed72.pck",
-  "pck_sha256": "67b99ec6ed72f91c3d0297d788265dbcbe38fa08a2ec913de670a1efaebeb786",
-  "created_utc": "2026-11-03T23:09:01.495822+00:00",
+  "build": "d526f40046fb",
+  "main_pack": "mr-digger-d526f40046fb.pck",
+  "pck_sha256": "d526f40046fbb3a41ae5acaaf29c2dd3091e0a6eb47bec17feb0ff7f3580159e",
+  "created_utc": "2026-11-04T11:48:19.933840+00:00",
   "generator": 7,
   "features": [
     "expedition-bag-100",
@@ -30,6 +30,10 @@
     "player-hurt-sound",
     "sector-doors",
     "progressive-cameras",
-    "falling-ropes"
+    "falling-ropes",
+    "core-final-boss",
+    "boss-pursuit-and-attack-chains",
+    "boss-escalation-and-regeneration",
+    "new-campaign-tutorial"
   ]
 }
