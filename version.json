@@ -1,9 +1,9 @@
 {
   "name": "Mr. Digger",
-  "build": "b1cd20f2cd55",
-  "main_pack": "mr-digger-b1cd20f2cd55.pck",
-  "pck_sha256": "b1cd20f2cd55fd1d41f128f99d82286fa7fff6112168950fe4703ec67fea5ec2",
-  "created_utc": "2026-11-04T12:00:23.669590+00:00",
+  "build": "fb180256dcfd",
+  "main_pack": "mr-digger-fb180256dcfd.pck",
+  "pck_sha256": "fb180256dcfde1da8c1045d72dbb8f3930bcb547aead2c3b9750f80893dab2ae",
+  "created_utc": "2026-11-11T22:36:58.651616+00:00",
   "generator": 7,
   "features": [
     "expedition-bag-100",
@@ -34,6 +34,8 @@
     "core-final-boss",
     "boss-pursuit-and-attack-chains",
     "boss-escalation-and-regeneration",
+    "boss-jetpack-disruption",
+    "expanded-core-arena",
     "new-campaign-tutorial",
     "illustrated-tutorial-after-world-generation"
   ]
